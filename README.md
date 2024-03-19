@@ -1,29 +1,14 @@
-# bitirmeproje
+<h1>Proje Açıklaması</h1>
+<div>Proje vue.js dili kuullanılarak yazılmıştır<br>
+Projede 'giriş.vue' componenti kullanıldı.<br>
+Giriş sayfasında reCaptcha scripti kullanıldı.<br>
+Proje 192503069 Hacı Buğra Afşaroğlu tarafından yapıldı.<br>
+</div> 
+<h1>Ekran Görüntüleri</h1>
+ <img src="https://github.com/bugraafsaroglu/bitirmeproje2/assets/115720117/3a914eb6-98c7-47a8-a6d6-e779e8befa24">
 
-This template should help get you started developing with Vue 3 in Vite.
+ <br>
+  <img src="https://github.com/bugraafsaroglu/bitirmeproje2/assets/115720117/fc4500c2-3276-490e-ab6a-d8b01158021a">
 
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+  <br>
+ <img src="https://github.com/bugraafsaroglu/bitirmeproje2/assets/115720117/bc74cf83-3140-4e1b-8ef9-a721f4d56838">
